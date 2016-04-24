@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Insurances Accepted
-datePublished: '2016-04-24T04:10:49.281Z'
-dateModified: '2016-04-24T04:06:19.147Z'
+datePublished: '2016-04-24T04:32:38.182Z'
+dateModified: '2016-04-24T04:32:13.111Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-insurances-accepted.md
