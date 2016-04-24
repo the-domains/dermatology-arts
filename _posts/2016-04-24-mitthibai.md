@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: A contemporary dermatology practice service Washington State through our Bellevue and Yakima locations
-datePublished: '2016-04-24T03:59:38.639Z'
-dateModified: '2016-04-24T03:53:33.067Z'
+description: A contemporary dermatology practice serving Washington State through our Bellevue and Yakima locations
+datePublished: '2016-04-24T04:31:47.668Z'
+dateModified: '2016-04-24T03:59:59.294Z'
 title: ''
 author:
   - name: ''
@@ -26,7 +26,7 @@ _type: Article
 ---
 # Dermatology Arts
 
-A contemporary dermatology practice service Washington State through our Bellevue and Yakima locations
+A contemporary dermatology practice serving Washington State through our Bellevue and Yakima locations
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dc05421e614ec047a0e0f040e77548388952f90.jpg)
 
 Click [here][0] to make an appointment
