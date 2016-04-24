@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A contemporary dermatology practice service Washington State through our Bellevue and Yakima locations
-datePublished: '2016-04-24T03:52:56.396Z'
-dateModified: '2016-04-24T03:52:48.116Z'
+datePublished: '2016-04-24T03:59:38.639Z'
+dateModified: '2016-04-24T03:53:33.067Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: dermatology-arts/index.html
 _type: Article
 
