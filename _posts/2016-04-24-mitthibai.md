@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "The contemporary dermatology practice of Samir Master, MD, and  Casey Carlos, MD, PhD, serving the medical skin needs of Washington State through our downtown Bellevue and West Valley Yakima locations. We utilize evidence-based, cost-effective therapies that are specifically tailored to each patient's individual needs and situation."
-datePublished: '2016-04-30T23:36:36.730Z'
-dateModified: '2016-04-30T23:36:03.892Z'
+description: "The contemporary dermatology practice of Samir Master, MD, and  Casey Carlos, MD, PhD, serves the skincare needs of Washington State residents and visitors through our downtown Bellevue and West Valley Yakima locations. We utilize evidence-based, cost-effective therapies that are specifically tailored to each patient's individual needs and situation."
+datePublished: '2016-04-30T23:38:43.510Z'
+dateModified: '2016-04-30T23:38:41.622Z'
 title: Dermatology Arts
 author:
   - name: ''
@@ -27,7 +27,7 @@ _type: Article
 # Dermatology Arts
 
 The contemporary dermatology practice of Samir Master, MD, and   
-Casey Carlos, MD, PhD, serving the medical skin needs of Washington State through our downtown Bellevue and West Valley Yakima locations. We utilize evidence-based, cost-effective therapies that are specifically tailored to each patient's individual needs and situation.
+Casey Carlos, MD, PhD, serves the skincare needs of Washington State residents and visitors through our downtown Bellevue and West Valley Yakima locations. We utilize evidence-based, cost-effective therapies that are specifically tailored to each patient's individual needs and situation.
 
 Click [here][0] to make an appointment.
 
