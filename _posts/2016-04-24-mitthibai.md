@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A contemporary dermatology practice serving Washington State through our Bellevue and Yakima locations
-datePublished: '2016-04-30T21:10:59.630Z'
-dateModified: '2016-04-30T21:10:19.562Z'
+datePublished: '2016-04-30T21:11:23.227Z'
+dateModified: '2016-04-30T21:11:08.970Z'
 title: ''
 author:
   - name: ''
