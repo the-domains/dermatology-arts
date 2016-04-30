@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'https://thegrid.ai/dermatology-arts/'
-datePublished: '2016-04-30T23:44:26.229Z'
-dateModified: '2016-04-30T23:42:54.256Z'
+datePublished: '2016-04-30T23:45:41.844Z'
+dateModified: '2016-04-30T23:44:32.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-our-main-site.md
