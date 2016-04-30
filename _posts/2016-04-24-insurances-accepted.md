@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Insurances Accepted
-datePublished: '2016-04-29T13:59:53.894Z'
-dateModified: '2016-04-24T04:46:35.763Z'
+datePublished: '2016-04-30T20:50:52.049Z'
+dateModified: '2016-04-30T20:50:29.439Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-insurances-accepted.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: insurances-accepted/index.html
-_type: Article
+_type: WebPage
 
 ---
 Insurances Accepted
@@ -52,6 +52,4 @@ _Premera and Premera Plans _
 
 _Regence and Regence Plans _
 
-Don't see your insurance listed? That's OK. We will courtesy bill other insurance companies for you. Feel free to call our billing office for assistance with your specific in-network and out-of-network benefits and help explain them to you (we know how confusing insurance gets!). 
-
-Get the most from your insurance! Call us and we'll help figure out what your plan entitles you to!
+Don't see your insurance listed? That's OK. We will courtesy bill other insurance companies for you. There are many, many plans for each insurance company--we encourage you to contact your insurance carrier to ensure coverage in our office.
