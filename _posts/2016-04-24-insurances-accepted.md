@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Insurances Accepted
-datePublished: '2016-04-30T20:53:58.018Z'
-dateModified: '2016-04-30T20:50:58.981Z'
+datePublished: '2016-04-30T21:01:31.208Z'
+dateModified: '2016-04-30T21:01:08.325Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-insurances-accepted.md
