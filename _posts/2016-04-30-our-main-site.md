@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Our Main Site TEST 1
-datePublished: '2016-04-30T23:26:51.638Z'
-dateModified: '2016-04-30T21:11:20.266Z'
+description: 'https://thegrid.ai/dermatology-arts/'
+datePublished: '2016-04-30T23:42:04.334Z'
+dateModified: '2016-04-30T23:41:55.438Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-our-main-site.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: true
 url: our-main-site/index.html
-_type: WebPage
+_type: Article
 
 ---
-Our Main Site TEST 1
+https://thegrid.ai/dermatology-arts/
