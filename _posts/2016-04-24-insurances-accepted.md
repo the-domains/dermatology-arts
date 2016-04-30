@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Insurances Accepted
-datePublished: '2016-04-30T23:37:05.881Z'
-dateModified: '2016-04-30T23:21:47.392Z'
+datePublished: '2016-04-30T23:42:09.511Z'
+dateModified: '2016-04-30T23:38:58.602Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-insurances-accepted.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: true
 url: insurances-accepted/index.html
-_type: WebPage
+_type: Article
 
 ---
 Insurances Accepted
