@@ -5,12 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Dermatology Arts, the contemporary dermatology practice of Samir Master, MD, and Casey Carlos, MD, PhD, serves the skincare needs of Washington State residents and visitors through our downtown Bellevue and West Valley Yakima locations. We utilize evidence-based, cost-effective therapies that are specifically tailored to each patient's individual needs and situation."
-datePublished: '2016-04-30T23:50:39.089Z'
-dateModified: '2016-04-30T23:49:18.540Z'
+datePublished: '2016-05-05T17:04:34.449Z'
+dateModified: '2016-05-05T17:01:53.221Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-30-our-main-site.md
-published: true
 authors: []
 publisher:
   name: null
