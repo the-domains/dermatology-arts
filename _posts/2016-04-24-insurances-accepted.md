@@ -5,19 +5,18 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Insurances Accepted
-datePublished: '2016-04-30T23:42:09.511Z'
-dateModified: '2016-04-30T23:38:58.602Z'
+datePublished: '2016-05-05T17:05:04.671Z'
+dateModified: '2016-05-05T17:04:56.425Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-insurances-accepted.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: insurances-accepted/index.html
 _type: Article
 
